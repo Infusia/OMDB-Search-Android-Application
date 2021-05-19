@@ -35,8 +35,6 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
-//https://youtu.be/iiZKLOSCAME
-    //I, Izaiah Dhuman, 000375935 certify that this material is my original work. No other person's work has been used without due acknowledgement.
     String TAG = "===Main Activity===";
     String resultFromApi;
     Button button;
